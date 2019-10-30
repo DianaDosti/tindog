@@ -1,1 +1,1 @@
-# tindog
+#  This is simple site --- tindog
